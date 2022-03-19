@@ -11,6 +11,10 @@
 		82AEA43427E39D9000ED993C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AEA43327E39D9000ED993C /* ContentView.swift */; };
 		82AEA43627E39D9100ED993C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82AEA43527E39D9100ED993C /* Assets.xcassets */; };
 		82AEA43927E39D9100ED993C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82AEA43827E39D9100ED993C /* Preview Assets.xcassets */; };
+		82AEA44027E4136D00ED993C /* BeforeProject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AEA43F27E4136D00ED993C /* BeforeProject.swift */; };
+		82AEA44227E43E6E00ED993C /* order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AEA44127E43E6E00ED993C /* order.swift */; };
+		82AEA44427E445CF00ED993C /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AEA44327E445CF00ED993C /* AddressView.swift */; };
+		82AEA44627E447E300ED993C /* CheckOutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82AEA44527E447E300ED993C /* CheckOutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		82AEA43327E39D9000ED993C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		82AEA43527E39D9100ED993C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		82AEA43827E39D9100ED993C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		82AEA43F27E4136D00ED993C /* BeforeProject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeforeProject.swift; sourceTree = "<group>"; };
+		82AEA44127E43E6E00ED993C /* order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = order.swift; sourceTree = "<group>"; };
+		82AEA44327E445CF00ED993C /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		82AEA44527E447E300ED993C /* CheckOutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckOutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,10 @@
 			children = (
 				82AEA43127E39D9000ED993C /* CupCakeCornerApp.swift */,
 				82AEA43327E39D9000ED993C /* ContentView.swift */,
+				82AEA44527E447E300ED993C /* CheckOutView.swift */,
+				82AEA44327E445CF00ED993C /* AddressView.swift */,
+				82AEA44127E43E6E00ED993C /* order.swift */,
+				82AEA43F27E4136D00ED993C /* BeforeProject.swift */,
 				82AEA43527E39D9100ED993C /* Assets.xcassets */,
 				82AEA43727E39D9100ED993C /* Preview Content */,
 			);
@@ -139,6 +151,10 @@
 			files = (
 				82AEA43427E39D9000ED993C /* ContentView.swift in Sources */,
 				82AEA43227E39D9000ED993C /* CupCakeCornerApp.swift in Sources */,
+				82AEA44227E43E6E00ED993C /* order.swift in Sources */,
+				82AEA44027E4136D00ED993C /* BeforeProject.swift in Sources */,
+				82AEA44627E447E300ED993C /* CheckOutView.swift in Sources */,
+				82AEA44427E445CF00ED993C /* AddressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
